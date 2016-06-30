@@ -8,7 +8,7 @@ class Square implements Shape{
 
     @Override
     void draw() {
-        print("Drawing Square")
+        println("Drawing Square")
     }
 }
 
@@ -16,7 +16,7 @@ class Circle implements Shape{
 
     @Override
     void draw() {
-        print("Drawing Circle")
+        println("Drawing Circle")
     }
 }
 
